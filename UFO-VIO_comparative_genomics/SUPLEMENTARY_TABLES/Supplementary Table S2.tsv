@@ -1,0 +1,180 @@
+		
+	Function	SAMPLE
+	Glycolysis	0,89
+	Gluconeogenesis	0,89
+	TCA Cycle	0,88
+	NAD(P)H-quinone oxidoreductase	0,07
+	NADH-quinone oxidoreductase	0,98
+	Na-NADH-ubiquinone oxidoreductase	0
+	F-type ATPase	1
+	V-type ATPase	0
+	Cytochrome c oxidase	0,75
+	Ubiquinol-cytochrome c reductase	0,99
+	Cytochrome o ubiquinol oxidase	1
+	Cytochrome aa3-600 menaquinol oxidase	0
+	Cytochrome c oxidase, cbb3-type	1
+	Cytochrome bd complex	1
+	RuBisCo	0
+	CBB Cycle	0
+	rTCA Cycle	0
+	Wood-Ljungdahl	0
+	3-Hydroxypropionate Bicycle	0,24
+	4-Hydroxybutyrate/3-hydroxypropionate	0,2
+	Pectinesterase	0
+	Diacetylchitobiose deacetylase	0
+	Glucoamylase	1
+	D-galacturonate epimerase	1
+	Exo-poly-alpha-galacturonosidase	0
+	Oligogalacturonide lyase	0
+	Cellulase	0
+	Exopolygalacturonase	0
+	Chitinase	1
+	basic endochitinase B	0
+	Bifunctional chitinase/lysozyme	0
+	beta-N-acetylhexosaminidase	1
+	D-galacturonate isomerase	0
+	Alpha-amylase	0
+	Beta-glucosidase	0
+	Pullulanase	0
+	Ammonia oxidation (amo/pmmo)	0
+	Hydroxylamine oxidation	0
+	Nitrite oxidation	0
+	Dissim nitrate reduction	0
+	DNRA	0
+	Nitrite reduction	0
+	Nitric oxide reduction	0
+	Nitrous-oxide reduction	0
+	Nitrogen fixation	0
+	Hydrazine dehydrogenase	0
+	Hydrazine synthase	0
+	dissimilatory sulfate < > APS	0
+	dissimilatory sulfite < > APS	0
+	Dissimilatory sulfite < > sulfide	0
+	Thiosulfate oxidation	0,16
+	alt thiosulfate oxidation tsdA	0
+	alt thiosulfate oxidation doxAD	0
+	sulfur reductase sreABC	0
+	Thiosulfate/polysulfide reductase	0
+	Sulfhydrogenase	0
+	Sulfur disproportionation	0
+	Sulfur dioxygenase	0
+	Sulfite dehydrogenase	0
+	Sulfite dehydrogenase (quinone)	0
+	Sulfide oxidation	0
+	Sulfur assimilation	0
+	DMSP demethylation	0
+	DMS dehydrogenase	0
+	DMSO reductase	0
+	NiFe hydrogenase	0
+	Ferredoxin hydrogenase	0
+	Membrane-bound hydrogenase	0
+	Hydrogen:quinone oxidoreductase	0
+	NAD-reducing hydrogenase	0
+	NADP-reducing hydrogenase	0
+	NiFe hydrogenase Hyd-1	0
+	Thiamin biosynthesis	0,64
+	Riboflavin biosynthesis	1
+	Cobalamin biosynthesis	0,62
+	transporter: vitamin B12	0,33
+	Transporter: thiamin	0,66
+	Transporter: urea	0
+	Transporter: phosphonate	0
+	Transporter: phosphate	1
+	Flagellum	1
+	Chemotaxis	0,88
+	Methanogenesis via methanol	0
+	Methanogenesis via acetate	0
+	Methanogenesis via dimethylsulfide, methanethiol, methylpropanoate	0
+	Methanogenesis via methylamine	0
+	Methanogenesis via trimethylamine	0
+	Methanogenesis via dimethylamine	0
+	Methanogenesis via CO2	0
+	Coenzyme B/Coenzyme M regeneration	0
+	Coenzyme M reduction to methane	0
+	Soluble methane monooxygenase	0
+	Methanol dehydrogenase	0
+	Alcohol oxidase	0
+	Dimethylamine/trimethylamine dehydrogenase	0
+	Photosystem II	0
+	Photosystem I	0
+	Cytochrome b6/f complex	0
+	anoxygenic type-II reaction center	0
+	anoxygenic type-I reaction center	0
+	Retinal biosynthesis	0,25
+	Retinal from apo-carotenals	0
+	Entner-Doudoroff Pathway	1
+	Mixed acid: Lactate	0
+	Mixed acid: Formate	1
+	Mixed acid: Formate to CO2 & H2	0,501
+	Mixed acid: Acetate	1
+	Mixed acid: Ethanol, Acetate to Acetylaldehyde	1
+	Mixed acid: Ethanol, Acetyl-CoA to Acetylaldehyde (reversible)	1
+	Mixed acid: Ethanol, Acetylaldehyde to Ethanol	0
+	Mixed acid: PEP to Succinate via OAA, malate & fumarate	0,458
+	Naphthalene degradation to salicylate	0
+	Biofilm PGA Synthesis protein	0
+	Colanic acid and Biofilm transcriptional regulator	0
+	Biofilm regulator BssS	0
+	Colanic acid and Biofilm protein A	0
+	Curli fimbriae biosynthesis	0
+	Adhesion	0
+	Competence-related core components	0,21
+	Competence-related related components	0
+	Competence factors	0
+	Glyoxylate shunt	1
+	Anaplerotic genes	0,5
+	Sulfolipid biosynthesis	0
+	C-P lyase cleavage PhnJ	1
+	CP-lyase complex	1
+	CP-lyase operon	0,9
+	Type I Secretion	0,99
+	Type III Secretion	0,666
+	Type II Secretion	0,6921
+	Type IV Secretion	0
+	Type VI Secretion	0,666
+	Sec-SRP	0,83
+	Twin Arginine Targeting	0,75
+	Type Vabc Secretion	0,4
+	Serine pathway/formaldehyde assimilation	0,6
+	Arsenic reduction	0,75
+	Cobalt transporter CbiMQ	0
+	Cobalt transporter CbtA	0
+	Cobalt transporter CorA	1
+	Nickel ABC-type substrate-binding NikA	0
+	Copper transporter CopA	1
+	Ferrous iron transporter FeoB	1
+	Ferric iron ABC-type substrate-binding AfuA	1
+	Fe-Mn transporter MntH	0
+	Histidine	1
+	Arginine	1
+	Lysine	1
+	Serine	1
+	Threonine	1
+	Asparagine	1
+	Glutamine	1
+	Cysteine	1
+	Glycine	1
+	Proline	1
+	Alanine	1
+	Valine	0,83
+	Methionine	1
+	Phenylalanine	1
+	Isoleucine	0,83
+	Leucine	1
+	Tryptophan	1
+	Tyrosine	1
+	Aspartate	1
+	Glutamate	1
+	PET degradation	0
+	Starch/glycogen synthesis	0
+	Starch/glycogen degradation	0
+	Polyhydroxybutyrate synthesis	0,834
+	Bidirectional polyphosphate	1
+	Carotenoids backbone biosynthesis	0,4
+	End-product astaxanthin	0
+	End-product nostoxanthin	0
+	End-product zeaxanthin diglucoside	0
+	End-product myxoxanthophylls	0
+	Staphyloaxanthin biosynthesis	0,167
+	Mevalonate pathway	0
+	MEP-DOXP pathway	0,994
