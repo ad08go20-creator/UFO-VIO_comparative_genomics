@@ -506,7 +506,7 @@ eight *Chromobacterium amazonense* genomes).
 
 ## 15. 🚧 OrthoVenn
 
-Not yet documented — analysis pending.
+Not yet documented.
 
 ## 16. PPanGGOLiN
 
